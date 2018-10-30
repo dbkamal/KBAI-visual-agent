@@ -9,9 +9,9 @@ Artificial intelligence agent that uses a visual method to solve Raven's Progres
 * Pillow
 
 ## Running the Agent
-Before running, configure which RPM sets to test against in ````Problems\ProblemSetList```` by adding or removing sets.
-
-From command line:
+1. Unzip ````Problems.zip```` to ````Problems```` directory alongside .py files.
+1. configure which RPM sets to test against in ````Problems\ProblemSetList.txt```` by adding or removing sets.
+1. From command line:
 ````python RavensProject.py````
 
 ## Viewing Results
