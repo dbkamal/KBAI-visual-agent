@@ -3,7 +3,7 @@
 ## Purpose 
 Artificial intelligence agent that uses a visual method to solve Raven's Progressive Matrices (2x2 and 3x3) human intelligence tests. Agent employs weighted voting to select an answer or skip a question. Completed for Georgia Tech OMSCS CS 7637
 
-##Requirements
+## Requirements
 * Python 3
 * NumPy
 * Pillow
